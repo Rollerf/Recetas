@@ -1,5 +1,4 @@
 # 🍲 Chili vegano
-
 ## Descripción
 
 Chili vegano picante de alubias
@@ -18,7 +17,8 @@ Chili vegano picante de alubias
 - 800g de tomate triturado
 - 1'5 tazas de vino tinto
 - 1 calabacín
-- 1 bote maíz dulce
+- 130g maíz dulce
+- 1 rama de apio
 
 ---
 
@@ -46,7 +46,7 @@ Chili vegano picante de alubias
 
 ---
 
-## ⏱️ Time
+## ⏱️ Tiempo
 
 - Preparación inicial: 25 minutos
 - Cocinado: 55 minutos
@@ -54,12 +54,16 @@ Chili vegano picante de alubias
 
 ---
 
-## 🍽️ Serving
+## 🍽️ Raciones
 
 - 
 
 ---
 
-## 💡 Notes
+## 💡 Notas
 
 - 
+
+## 💡 Referencias:
+
+[Chili vegano](https://danzadefogones.com/chili-vegano/)

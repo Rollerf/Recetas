@@ -49,12 +49,14 @@ Garbanzos al curry caldosos.
 
 ---
 
-## 🍽️ Serving
+## 🍽️ Raciones
 
 - 
 
 ---
 
-## 💡 Notes
+## 💡 Notas
 
 - 
+
+## 💡 Referencias:
