@@ -8,12 +8,11 @@ Moro dominicano vegano de frijoles
 
 ## 📝 Ingredientes
 
-- 1/2 bote de 80g de alcaparras en vinagre
-- 1/2 bote de 230g de pepinillos en vinagre
+- 1/2 bote de 80g de alcaparras en vinagre o pepinillos
 - 200g de arroz largo
 - 1 rama de apio
 - 4 dientes de ajo
-- 1 pimiento morrón verde
+- 1 pimiento morrón verde o berenjena
 - 500g de alubias negras cocidas. Pesados en seco
 - 800g de tomate triturado
 - 2,5 tazas de caldo de verduras o agua por cada taza de arroz
