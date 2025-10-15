@@ -41,7 +41,7 @@ Chili vegano picante de alubias
 5. Cortar el calabacín y los champiñones. Fuego medio e ir removiendo.
 6. Agregar especias y sal al gusto, excepto perejil. Mezclar bien y dejar en fuego medio-bajo 10 minutos.
 7. Agregar tomate triturado y mezclar todo. Dejar 10 minutos a fuego medio.
-8. Agregar garbanzos y sal al gusto. Dejar reposar 15 minutos a fuego bajo.
+8. Agregar alubias y sal al gusto. Dejar reposar 15 minutos a fuego bajo.
 9. Echar perejil al gusto a la hora de servir.
 
 ---
